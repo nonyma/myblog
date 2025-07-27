@@ -1,4 +1,15 @@
 title: NonymA Blog
-description: 실허, 자동화, 시도들에 대한 요약
+description: 실험, 자동화, 시도들에 대한 요약
 author: NonymA
-theme: minima
+
+theme: null
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# ensure Jekyll processes custom pages directory
+include:
+  - "_pages"
