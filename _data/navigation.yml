@@ -1,10 +1,9 @@
 main:
-  - title: "🧠 Agent Blog Setup"
-    url: /blog🧠
-  - title: "🎮 Age🎮t for Unreal Dev"
-    url: /unreal🎭
-  - title: "🎭 Narrative AI (coming soon)"
+  - title: "Agent Blog Setup"
+    url: /blog/
+  - title: "Agent for Unreal Dev"
+    url: /unreal/
+  - title: "Narrative AI (coming soon)"
     url: /ai-narrative/
-  - title: "👤 About"
+  - title: "About"
     url: /about/
-
