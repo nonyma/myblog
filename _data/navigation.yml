@@ -1,0 +1,9 @@
+main:
+  - title: "\ud83d\udcd8 Blog \ub9cc\ub4e4\uae30"
+    url: /blog/
+  - title: "\ud83d\udee0 \uc5b4\ub51c\uc5b4\ub7f4 \uc790\ub3d9\ud654"
+    url: /unreal/
+  - title: "\ud83c\udfae \uc0c1\ud669\uadf9 AI"
+    url: /ai-narrative/
+  - title: "\ud83d\udc64 \uc18c\uac1c"
+    url: /about/
