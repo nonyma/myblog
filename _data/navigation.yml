@@ -1,9 +1,9 @@
 main:
-  - title: "📘 Blog 만들기"
+  - title: "🧠 Agent Blog Setup"
     url: /blog/
-  - title: "🛠 언리얼 자동화"
+  - title: "🎮 Agent for Unreal Dev"
     url: /unreal/
-  - title: "🎭 상황극 AI"
+  - title: "🍯 Narrative AI (coming soon)"
     url: /ai-narrative/
-  - title: "👤 소개"
+  - title: "👤 About"
     url: /about/
