@@ -16,6 +16,6 @@ include:
   - "_pages"
 
 
-collections:
-  tmp-review:
-    output: true
+# collections:
+  # tmp-review:
+    # output: true
