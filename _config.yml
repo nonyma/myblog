@@ -14,3 +14,8 @@ plugins:
 # ensure Jekyll processes custom pages directory
 include:
   - "_pages"
+
+
+collections:
+  tmp-review:
+    output: true
