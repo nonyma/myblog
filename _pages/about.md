@@ -23,4 +23,4 @@ layout: single
 
 ---
 
-📬 블로그 관련 문의: [cradle.note_42@icloud.com](mailto:cradle.note_42@icloud.com)
+📬[cradle.note_42@icloud.com](mailto:cradle.note_42@icloud.com)
