@@ -1,7 +1,18 @@
 ---
 ---
 
-$primary-color: #7e57c2;
+$primary-color: #1f3c88;
+$link-color: #6096ba;
+$nav-link-color: $link-color;
+$nav-link-hover-color: lighten($link-color, 15%);
 $body-color: #333;
 
 @import "minimal-mistakes";
+
+/* Custom styles */
+.footer-banner {
+  background-color: $primary-color;
+  color: #f5f5f5;
+  text-align: center;
+  padding: 1rem 0;
+}
