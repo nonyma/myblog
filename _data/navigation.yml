@@ -1,9 +1,25 @@
 main:
-  - title: "Agent Blog Setup"
+  - title: "Blog"
     url: /blog/
-  - title: "Agent for Unreal Dev"
-    url: /unreal/
-  - title: "Narrative AI (coming soon)"
-    url: /ai-narrative/
+  - title: "Archive"
+    url: /archive/
   - title: "About"
     url: /about/
+
+docs:
+  - title: "Posts"
+    children:
+      - title: "#3 ChatGPT"
+        url: /blog/2025/07/28/post-3/
+      - title: "#2 사진 정리"
+        url: /blog/2025/07/28/post-2/
+      - title: "#1 GitHub 블록그"
+        url: /blog/2025/07/28/post-1/
+      - title: "#0 블록그 개설 텍스트"
+        url: /blog/2025/07/28/post-0/
+  - title: "Pages"
+    children:
+      - title: "About"
+        url: /about/
+      - title: "Archive"
+        url: /archive/
