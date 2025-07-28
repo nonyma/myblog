@@ -1,0 +1,22 @@
+{% if page.header.overlay_image %}
+  <header class="page__header">
+    <img src="{{ page.header.overlay_image }}" alt="">
+  </header>
+{% endif %}
+
+<article class="page__content">
+  {{ content }}
+</article>
+
+<hr>
+<div class="post-navigation">
+  {% if page.previous %}
+    <a href="{{ page.previous.url }}">← 이전 글: {{ page.previous.title }}</a>
+  {% endif %}
+  |
+  <a href="/blog/">목록으로</a>
+  |
+  {% if page.next %}
+    <a href="{{ page.next.url }}">다음 글: {{ page.next.title }} →</a>
+  {% endif %}
+</div>
