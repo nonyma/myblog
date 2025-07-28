@@ -1,3 +1,4 @@
+
 title: NonymA Blog
 description: 실험, 자동화, 시도들에 대한 요약
 author: NonymA
@@ -19,3 +20,20 @@ include:
 # collections:
   # tmp-review:
     # output: true
+
+# Enable table of contents globally
+
+# Defaults for posts: layout single, sidebar navigation docs, show TOC
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      sidebar:
+        nav: "docs"
+      toc: true
+            toc_sticky: true
+      author_profile: true
+
