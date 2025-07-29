@@ -1,6 +1,10 @@
 main:
   - title: "Blog"
     url: /blog/
+  - title: "Unreal"
+    url: /unreal/
+  - title: "AI Narrative"
+    url: /ai-narrative/
   - title: "Archive"
     url: /archive/
   - title: "About"
