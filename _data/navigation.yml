@@ -16,7 +16,7 @@ docs:
       - title: "#1 GitHub 블록그"
         url: /blog/2025/07/28/post-1.html
       - title: "#0 블록그 개설 텍스트"
-        url: /blog/2025/07/28/블로그-개설-테스트.html
+        url: /blog/2025/07/27/블로그-개설-테스트.html
   - title: "Pages"
     children:
       - title: "About"
