@@ -15,16 +15,16 @@ main:
 docs:
   - title: "GitHub Blog"
     children:
-      - title: "#4 클로그에 새 레이아웃 적용하며 AI Features 비교하기"
+      - title: "#4 새 레이아웃 적용하며 AI Features 비교"
         url: /blog/2025/07/29/post-4.html
-      - title: "#3 ChatGPT와 Agent들을 활용한 블록 자동화"
+      - title: "#3 ChatGPT와 Agent를 활용한 블로그 생성"
         url: /blog/2025/07/28/post-3.html
-      - title: "#2 이미지 정리 자동화를 위한 구조"
+      - title: "#2 이미지 정리 자동화 구조"
         url: /blog/2025/07/28/post-2.html
-      - title: "#1 Agent로 GitHub 블록 감역하기"
+      - title: "#1 Agent로 GitHub 블로그 개설"
         url: /blog/2025/07/28/post-1.html
-      - title: "#0 블록 감역 테스트"
-        url: /blog/2025/07/27/블록가선감역테스트.html
+      - title: "#0 블로그 생성 테스트"
+        url: /blog/2025/07/27/블로그-개설-테스트.html
   - title: "Unreal C++"
     children:
   - title: "AI Narrative"
