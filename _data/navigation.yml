@@ -1,7 +1,7 @@
 main:
-  - title: "Blog"
+  - title: "GitHub Blog"
     url: /blog/
-  - title: "Unreal"
+  - title: "Unreal C++"
     url: /unreal/
   - title: "AI Narrative"
     url: /ai-narrative/
@@ -13,6 +13,8 @@ main:
 docs:
   - title: "Posts"
     children:
+      - title: "#4 AI Features"
+        url: /blog/2025/07/29/post-4.html
       - title: "#3 ChatGPT"
         url: /blog/2025/07/28/post-3.html
       - title: "#2 사진 정리"
