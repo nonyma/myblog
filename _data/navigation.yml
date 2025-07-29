@@ -17,9 +17,9 @@ docs:
         url: /blog/2025/07/28/post-3.html
       - title: "#2 사진 정리"
         url: /blog/2025/07/28/post-2.html
-      - title: "#1 GitHub 블록그"
+      - title: "#1 GitHub 블로그"
         url: /blog/2025/07/28/post-1.html
-      - title: "#0 블록그 개설 텍스트"
+      - title: "#0 블로그 개설 텍스트"
         url: /blog/2025/07/27/블로그-개설-테스트.html
   - title: "Pages"
     children:
