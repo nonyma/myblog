@@ -10,13 +10,13 @@ docs:
   - title: "Posts"
     children:
       - title: "#3 ChatGPT"
-        url: /blog/2025/07/28/post-3/
+        url: /blog/2025/07/28/post-3.html
       - title: "#2 사진 정리"
-        url: /blog/2025/07/28/post-2/
+        url: /blog/2025/07/28/post-2.html
       - title: "#1 GitHub 블록그"
-        url: /blog/2025/07/28/post-1/
+        url: /blog/2025/07/28/post-1.html
       - title: "#0 블록그 개설 텍스트"
-        url: /blog/2025/07/28/post-0/
+        url: /blog/2025/07/28/블로그-개설-테스트.html
   - title: "Pages"
     children:
       - title: "About"
