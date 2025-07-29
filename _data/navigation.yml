@@ -1,31 +1,37 @@
 main:
-  - title: "GitHub Blog"
-    url: /blog/
-  - title: "Unreal C++"
-    url: /unreal/
-  - title: "AI Narrative"
-    url: /ai-narrative/
+  - title: "블로그"
+    children:
+      - title: "GitHub Blog"
+        url: /blog/
+      - title: "Unreal C++"
+        url: /unreal/
+      - title: "AI Narrative"
+        url: /ai-narrative/
   - title: "Archive"
     url: /archive/
-  - title: "About"
+    description: "모득 글 연대기"
+  - title: "<i class='fas fa-user-circle' aria-label='About'></i>"
     url: /about/
+    class: "about-icon"
 
 docs:
   - title: "Posts"
     children:
-      - title: "#4 AI Features"
-        url: /blog/2025/07/29/post-4.html
-      - title: "#3 ChatGPT"
-        url: /blog/2025/07/28/post-3.html
-      - title: "#2 사진 정리"
-        url: /blog/2025/07/28/post-2.html
-      - title: "#1 GitHub 블로그"
-        url: /blog/2025/07/28/post-1.html
-      - title: "#0 블로그 개설 텍스트"
-        url: /blog/2025/07/27/블로그-개설-테스트.html
-  - title: "Pages"
-    children:
-      - title: "About"
-        url: /about/
-      - title: "Archive"
-        url: /archive/
+      - title: "Blog"
+        children:
+          - title: "#4 블로그에 새 레이아웃 적용하며 AI Features 비교하기"
+            url: /blog/2025/07/29/post-4.html
+          - title: "#3 ChatGPT와 Agent들을 활용한 블로그 자동화"
+            url: /blog/2025/07/28/post-3.html
+          - title: "#2 이미지 정리 자동화를 위한 구조"
+            url: /blog/2025/07/28/post-2.html
+          - title: "#1 GitHub 블로그"
+            url: /blog/2025/07/28/post-1.html
+          - title: "#0 블로그 개설 테스트"
+            url: /blog/2025/07/27/블로그-개설-테스트.html
+      - title: "Pages"
+        children:
+          - title: "About"
+            url: /about/
+          - title: "Archive"
+            url: /archive/
