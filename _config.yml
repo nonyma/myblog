@@ -5,12 +5,16 @@ author: Nonym.A
 
 theme: null
 remote_theme: "mmistakes/minimal-mistakes"
+url: "https://www.nonyma.art"
+lang: "ko"
+
 
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-include-cache
+  - jekyll-sitemap
 
 # ensure Jekyll processes custom pages directory
 include:
