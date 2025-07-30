@@ -19,7 +19,7 @@ layout: single
   - Codex, Task, Agent 기반 자동화  
 - **GitHub 연동 자동화**  
   - 블로그 개설 및 관리  
-  - Unreal Engine C++ 작업 흐름 최적화  
+  - Project A (Unreal) 작업 흐름 최적화  
 - **LLM 기반 AI 연동**
 
 ---

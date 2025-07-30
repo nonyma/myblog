@@ -1,10 +1,10 @@
 main:
   - title: "GitHub Blog"
     url: /blog/
-  - title: "Unreal C++"
-    url: /unreal/
-  - title: "AI Narrative"
-    url: /ai-narrative/
+  - title: "Project A (Unreal)"
+    url: /project-a/
+  - title: "Project B (AI Narrative)"
+    url: /project-b/
   - title: "Archive"
     url: /archive/
     description: "All posts chronology"
@@ -25,9 +25,9 @@ docs:
         url: /blog/2025/07/28/post-1.html
       - title: "#0 블로그 생성 테스트"
         url: /blog/2025/07/27/블로그-개설-테스트.html
-  - title: "Unreal C++"
+  - title: "Project A (Unreal)"
     children:
-  - title: "AI Narrative"
+  - title: "Project B (AI Narrative)"
     children:
   - title: "Pages"
     children:
