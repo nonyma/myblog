@@ -1,8 +1,0 @@
-main:
-  - title: "Home"
-    url: "/en/"
-  - title: "Blog"
-    url: "/en/blog/"
-docs:
-  - title: "Setting Up a Custom Domain and Multilingual Blog"
-    url: "/en/blog/2025/07/30/post-5/"
