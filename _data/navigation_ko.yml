@@ -1,0 +1,8 @@
+main:
+  - title: "홈"
+    url: "/"
+  - title: "블로그"
+    url: "/blog/"
+docs:
+  - title: "도메인 연결과 다국어 설정"
+    url: "/blog/2025/07/30/post-5/"
